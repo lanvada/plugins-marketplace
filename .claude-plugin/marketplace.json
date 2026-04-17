@@ -15,8 +15,8 @@
       "version": "0.1.0",
       "category": "content-ops",
       "source": {
-        "source": "github",
-        "repo": "lanvada/sonara-plugin",
+        "source": "url",
+        "url": "https://github.com/lanvada/sonara-plugin.git",
         "ref": "main"
       }
     }
