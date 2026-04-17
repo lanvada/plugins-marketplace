@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Claude Code — 个人配置不提交，共享配置（skills、settings.json）保留
+.claude/settings.local.json
+.claude/projects/
+.claude/plans/
+.claude/stats-cache.json
+.claude/worktrees/

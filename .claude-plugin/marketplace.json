@@ -1,0 +1,24 @@
+{
+  "name": "lanvada-plugins",
+  "owner": {
+    "name": "Zehua Hu",
+    "email": "zehua.hu.cs@outlook.com"
+  },
+  "metadata": {
+    "description": "Claude Code 插件集合（支持跨工具使用，参见各插件 README）",
+    "version": "2026.Q2"
+  },
+  "plugins": [
+    {
+      "name": "sonara",
+      "description": "SONARA 音频库工作流 skill 集合：意境描述、封面生成、CMS 上传、流水线批处理、Registry 查询",
+      "version": "0.1.0",
+      "category": "content-ops",
+      "source": {
+        "source": "github",
+        "repo": "lanvada/sonara-plugin",
+        "ref": "main"
+      }
+    }
+  ]
+}
