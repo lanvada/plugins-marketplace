@@ -19,6 +19,17 @@
         "url": "https://github.com/lanvada/sonara-plugin.git",
         "ref": "main"
       }
+    },
+    {
+      "name": "sesamehut-auth-client",
+      "description": "Sesame Hut Studio 身份层 (auth.sesamehut.studio) 产品侧集成 skill：OIDC + PKCE、refresh token rotation、S2S 产品级删除 API",
+      "version": "0.1.0",
+      "category": "auth",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sesamehut/auth-client-plugin.git",
+        "ref": "main"
+      }
     }
   ]
 }
