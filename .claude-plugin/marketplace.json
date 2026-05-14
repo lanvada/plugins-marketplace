@@ -16,7 +16,7 @@
       "category": "content-ops",
       "source": {
         "source": "url",
-        "url": "https://github.com/lanvada/sonara-plugin.git",
+        "url": "https://github.com/sesamehut/sonara-plugin.git",
         "ref": "main"
       }
     },
