@@ -1,8 +1,8 @@
 {
-  "name": "lanvada-plugins",
+  "name": "sesamehut-plugins",
   "owner": {
-    "name": "Zehua Hu",
-    "email": "zehua.hu.cs@outlook.com"
+    "name": "Sesame Hut Studio",
+    "email": "hello@sesamehut.studio"
   },
   "metadata": {
     "description": "Claude Code 插件集合（支持跨工具使用，参见各插件 README）",
